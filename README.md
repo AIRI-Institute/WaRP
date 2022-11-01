@@ -54,7 +54,13 @@ S is for validation of weakly supervised segmentation method
     │       └── labels
     │ 
     └── Warp-S
-        ├── ...
+        ├── labelmap.txt
+        ├── JPEGImages_class_in_dir
+            ├── bottle-blue-full
+            ├── ...
+        ├── SegmentationObject_class_in_dir
+            ├── bottle-blue-full
+            ├── ...
 ```
 # Warp-D Detection
 The main dataset part WaRP-D contains 2452 images in the training sample
