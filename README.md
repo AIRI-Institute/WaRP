@@ -9,17 +9,19 @@ the bottle is filled with air, i.e. not flat. This is important for the correct 
 of the manipulator on the conveyor
 
 Examples of instances of each category of the WaRP Dataset are presented
-in Figure 3. An important difference from other datasets is that objects can
+in the Figure below. 
+
+ <img width="574" alt="Dataset classes" src="https://user-images.githubusercontent.com/71009563/199094398-d4346a95-761c-4d0c-aa23-8bc5f70a19ab.png">
+ 
+An important difference from other datasets is that objects can
 overlap, be heavily deformed, or be in poor lighting conditions.
-The dataset has three parts (see Figure 2): WaRP-D, WaRP-C, and WaRP-S
+The dataset has three parts: WaRP-D, WaRP-C, and WaRP-S
 
 The first two parts are intended for training and objective quality assessment
 of detection (WaRP-D) and classification (WaRP-C) tasks, and the third WaRP-
 S is for validation of weakly supervised segmentation method
 
-<img width="1157" alt="image" src="https://user-images.githubusercontent.com/71009563/199093480-124f6e76-8d78-4521-99b8-ad3210f280c6.png">
-
- 
+<img width="1157" alt="Dataset part description" src="https://user-images.githubusercontent.com/71009563/199093480-124f6e76-8d78-4521-99b8-ad3210f280c6.png">
  
  # Structure
  
@@ -72,5 +74,3 @@ bottles), with 1667 clipped images.
 WaRP-S contains a total of 112 images ranging in size from 100 × 96 pixels
 to 412 × 510 pixels, each category has 4 images with significantly deformed
 recyclable objects.
-
-<img width="574" alt="image" src="https://user-images.githubusercontent.com/71009563/199094398-d4346a95-761c-4d0c-aa23-8bc5f70a19ab.png">
