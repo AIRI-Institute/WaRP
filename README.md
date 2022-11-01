@@ -81,3 +81,13 @@ bottles), with 1667 clipped images.
 WaRP-S contains a total of 112 images ranging in size from 100 × 96 pixels
 to 412 × 510 pixels, each category has 4 images with significantly deformed
 recyclable objects.
+
+The folder "JPEGImages_class_in_dir" is equal to the folder "JPEGImages", but the folder "JPEGImages_class_in_dir" implies that each class has its own folder.
+
+The folder "SegmentationObject_class_in_dir" is equal to the folder "SegmentationObject", but the folder "SegmentationObject_class_in_dir" implies that each class has its own folder.
+
+The folder "ImageSets/Segmentation" was created using automatic data set assembly in CVAT
+
+The folder "SegmentationClass" was created using automatic data set assembly in CVAT
+
+The file "labelmap.txt" was created using automatic data set assembly in CVAT
