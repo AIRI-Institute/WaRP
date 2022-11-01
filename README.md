@@ -1,4 +1,4 @@
-# Warp-Dataset
+# WaRP (Waste Recycling Plant Dataset)
 
 Our dataset called WaRP (abbreviation of Waste Recycling Plant) consists
 of labeled pictures of an industrial conveyor. We selected 28 recyclable waste
