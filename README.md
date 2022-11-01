@@ -11,7 +11,8 @@ of the manipulator on the conveyor
 Examples of instances of each category of the WaRP Dataset are presented
 in the Figure below. 
 
- <img width="574" alt="Dataset classes" src="https://user-images.githubusercontent.com/71009563/199094398-d4346a95-761c-4d0c-aa23-8bc5f70a19ab.png">
+![Dataset classes](/assets/WaRP-Categories.png)
+
  
 An important difference from other datasets is that objects can
 overlap, be heavily deformed, or be in poor lighting conditions.
@@ -21,7 +22,7 @@ The first two parts are intended for training and objective quality assessment
 of detection (WaRP-D) and classification (WaRP-C) tasks, and the third WaRP-
 S is for validation of weakly supervised segmentation method
 
-<img width="1157" alt="Dataset part description" src="https://user-images.githubusercontent.com/71009563/199093480-124f6e76-8d78-4521-99b8-ad3210f280c6.png">
+![Dataset parts](/assets/WaRP-Dataset.png)
  
  # Structure
  
