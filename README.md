@@ -1,7 +1,6 @@
 # WaRP (Waste Recycling Plant Dataset)
 
-Our dataset called WaRP (abbreviation of Waste Recycling Plant) consists
-of labeled pictures of an industrial conveyor. We selected 28 recyclable waste
+Our dataset called WaRP (Waste Recycling Plant) includes labeled pictures of an industrial conveyor. We have selected 28 recyclable waste
 categories. Objects in the dataset are divided into the following groups: plastic bottles of 17 categories (class name with the bottle- prefix),
 glass bottles of three types (the glass- prefix), card boards of two categories,
 detergents of four categories, canisters and cans. The -full postfix means that
