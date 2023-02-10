@@ -13,7 +13,7 @@ in the Figure below.
 ![Dataset classes](/assets/WaRP-Categories.png)
 
  
-An important difference from other datasets is that objects can
+A crucial difference from other datasets is that objects can
 overlap, be heavily deformed, or be in poor lighting conditions.
 The dataset has three parts: WaRP-D, WaRP-C, and WaRP-S
 
@@ -62,7 +62,7 @@ S is for validation of weakly supervised segmentation method
             ├── ...
 ```
 # Warp-D Detection
-The main dataset part WaRP-D contains 2452 images in the training sample
+The key dataset part WaRP-D contains 2452 images in the training sample
 and 522 images in the validation sample. The images have full HD resolution
 of 1920 × 1080 pixels.
 Each image has ```.txt``` annotation with bboxes.
