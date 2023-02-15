@@ -1,14 +1,10 @@
 # WaRP (Waste Recycling Plant Dataset)
 
-Our dataset called WaRP (Waste Recycling Plant) includes labeled pictures of an industrial conveyor. We have selected 28 recyclable waste
+The dataset WaRP (Waste Recycling Plant) includes labeled images of an industrial waste sorting plant. We have selected 28 recyclable waste
 categories. Objects in the dataset are divided into the following groups: plastic bottles of 17 categories (class name with the bottle- prefix),
-glass bottles of three types (the glass- prefix), card boards of two categories,
-detergents of four categories, canisters and cans. The -full postfix means that
-the bottle is filled with air, i.e. not flat. This is important for the correct work
-of the manipulator on the conveyor
+glass bottles of three types (the glass- prefix), card boards of two categories, detergents of four categories, canisters and cans. The -full postfix means that the bottle is filled with air, i.e. not flat. This is important for the correct work of the manipulator on the conveyor
 
-Examples of instances of each category of the WaRP Dataset are presented
-in the Figure below. 
+Examples of instances of each category of the WaRP Dataset are presented in the figure below. 
 
 ![Dataset classes](/assets/WaRP-Categories.png)
 
