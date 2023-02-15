@@ -84,11 +84,12 @@ The folders "ImageSets/Segmentation", "SegmentationClass", and file "labelmap.tx
 # Citing WaRP
 
 Please consider citing the following paper in any research manuscript using the WaRP dataset:
-'''
+
+```
 @article{korovin2022anomaly,
   title={Anomaly segmentation model for defects detection in electroluminescence images of heterojunction solar cells},
   author={Korovin, Alexey and Vasilyev, Artem and Egorov, Fedor and Saykin, Dmitry and Terukov, Evgeny and Shakhray, Igor and Zhukov, Leonid and Budennyy, Semen},
   journal={arXiv preprint arXiv:2208.05994},
   year={2022}
 }
-'''
+```
