@@ -88,9 +88,13 @@ The folders "ImageSets/Segmentation", "SegmentationClass", and file "labelmap.tx
 Please consider citing the following paper in any research manuscript using the WaRP dataset:
 
 ```
-@article{yudin4183424hierarchical,
+@article{yudin2024hierarchical,
   title={Hierarchical waste detection with weakly supervised segmentation in images from recycling plants},
   author={Yudin, Dmitry and Zakharenko, Nikita and Smetanin, Artem and Filonov, Roman and Kichik, Margarita and Kuznetsov, Vladislav and Larichev, Dmitry and Gudov, Evgeny and Budennyy, Semen and Panov, Aleksandr},
-  journal={Available at SSRN 4183424}
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={128},
+  pages={107542},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
