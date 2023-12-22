@@ -1,6 +1,6 @@
 # WaRP (Waste Recycling Plant Dataset)
 
-[Link to data and code on Kaggle](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  [Paper](https://www.researchgate.net/publication/375962093_Hierarchical_waste_detection_with_weakly_supervised_segmentation_in_images_from_recycling_plants)
+[Link to data and code on Kaggle](https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset)  |  [Paper](https://www.researchgate.net/publication/375962093_Hierarchical_waste_detection_with_weakly_supervised_segmentation_in_images_from_recycling_plants)
 
 The dataset WaRP (Waste Recycling Plant) includes labeled images of an industrial waste sorting plant. We have selected 28 recyclable waste
 categories. Objects in the dataset are divided into the following groups: plastic bottles of 17 categories (class name with the bottle- prefix),
